@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.780ff6f9.css",
-    "main.js": "/static/js/main.558e0f3e.js",
+    "main.js": "/static/js/main.74677cb5.js",
     "static/media/NDA_Template.pdf": "/static/media/NDA_Template.a0f36b1f4e4cd6b28bed.pdf",
     "static/media/Consultancy_agreement_template.pdf": "/static/media/Consultancy_agreement_template.9565bd7782453bcebec0.pdf",
-    "static/media/NDA_Template_3.docx": "/static/media/NDA_Template_3.78cd2dc8696a7ed9e11f.docx",
+    "static/media/NDA_Template_3.docx": "/static/media/NDA_Template_3.e85cdfca7fcf8ad4ac1b.docx",
     "static/media/mobile-navbar-icon.svg": "/static/media/mobile-navbar-icon.6b126c9fccff17dba4f3.svg",
     "index.html": "/index.html",
     "static/media/horizontal-scroll-arrow-left.svg": "/static/media/horizontal-scroll-arrow-left.e1c010a6a3238970de14.svg",
     "static/media/horizontal-scroll-arrow-right.svg": "/static/media/horizontal-scroll-arrow-right.ecf2c7d2b3f3d06b120c.svg",
     "main.780ff6f9.css.map": "/static/css/main.780ff6f9.css.map",
-    "main.558e0f3e.js.map": "/static/js/main.558e0f3e.js.map"
+    "main.74677cb5.js.map": "/static/js/main.74677cb5.js.map"
   },
   "entrypoints": [
     "static/css/main.780ff6f9.css",
-    "static/js/main.558e0f3e.js"
+    "static/js/main.74677cb5.js"
   ]
 }
